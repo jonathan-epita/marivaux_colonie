@@ -1,0 +1,1923 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "MARIVAUX_COLONIE_manifest.json",
+  "type": "Manifest",
+  "label": {
+    "fr": [
+      "MARIVAUX_COLONIE_manifest.json"
+    ]
+  },
+  "items": [
+    {
+      "id": "/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 1"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_001.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p1/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_001.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 2"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_002.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p2/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_002.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 3"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_003.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p3/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_003.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 4"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_004.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p4/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_004.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 5"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_005.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p5/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p5/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_005.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 6"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_006.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p6/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p6/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_006.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p7",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 7"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_007.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p7/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p7/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_007.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p8",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 8"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_008.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p8/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p8/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_008.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p9",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 9"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_009.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p9/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p9/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_009.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p10",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 10"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_010.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p10/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p10/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_010.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p11",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 11"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_011.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p11/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p11/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_011.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p12",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 12"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_012.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p12/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p12/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_012.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p13",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 13"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_013.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p13/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p13/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_013.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p14",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 14"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_014.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p14/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p14/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_014.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p15",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 15"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_015.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p15/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p15/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_015.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p16",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 16"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_016.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p16/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p16/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_016.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p17",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 17"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_017.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p17/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p17/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_017.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p18",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 18"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_018.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p18/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p18/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_018.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p19",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 19"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_019.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p19/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p19/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_019.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p20",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 20"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_020.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p20/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p20/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_020.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p21",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 21"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_021.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p21/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p21/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_021.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p22",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 22"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_022.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p22/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p22/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_022.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p23",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 23"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_023.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p23/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p23/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_023.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p24",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 24"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_024.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p24/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p24/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_024.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p25",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 25"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_025.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p25/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p25/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_025.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p26",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 26"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_026.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p26/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p26/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_026.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p27",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 27"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_027.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p27/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p27/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_027.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p28",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 28"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_028.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p28/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p28/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_028.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p29",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 29"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_029.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p29/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p29/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_029.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p30",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 30"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_030.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p30/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p30/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_030.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p31",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 31"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_031.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p31/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p31/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_031.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p32",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 32"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_032.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p32/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p32/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_032.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p33",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 33"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_033.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p33/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p33/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_033.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p34",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 34"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_034.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p34/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p34/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_034.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p35",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 35"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_035.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p35/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p35/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_035.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p36",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 36"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_036.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p36/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p36/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_036.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p37",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 37"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_037.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p37/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p37/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_037.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p38",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 38"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_038.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p38/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p38/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_038.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p39",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 39"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_039.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p39/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p39/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_039.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p40",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 40"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_040.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p40/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p40/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_040.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p41",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 41"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_041.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p41/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p41/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_041.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p42",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 42"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_042.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p42/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p42/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_042.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p43",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 43"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_043.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p43/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p43/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_043.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p44",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 44"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_044.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p44/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p44/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_044.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p45",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 45"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_045.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p45/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p45/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_045.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p46",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 46"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_046.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p46/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p46/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_046.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p47",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 47"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_047.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p47/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p47/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_047.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p48",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 48"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_048.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p48/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p48/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_048.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/canvas/p49",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "Page 49"
+        ]
+      },
+      "height": 1683,
+      "width": 1190,
+      "thumbnail": [
+        {
+          "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_049.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ],
+      "items": [
+        {
+          "id": "/page/p49/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/annotation/p49/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/jonathan-epita/marivaux_colonie/main/marivaux_colonie/MARIVAUX_COLONIE_page_049.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 1190,
+                "height": 1683,
+                "service": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
